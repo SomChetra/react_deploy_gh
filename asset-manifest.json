@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react_deploy_gh/static/css/main.0d6432b3.css",
+    "main.js": "/react_deploy_gh/static/js/main.0f549fa3.js",
+    "static/media/product.svg": "/react_deploy_gh/static/media/product.1aceb347e1ff8afef062575ab5e0b9c8.svg",
+    "static/media/coca-cola.svg": "/react_deploy_gh/static/media/coca-cola.72050f08ac507b8916d7269e4847202b.svg",
+    "static/media/google.svg": "/react_deploy_gh/static/media/google.0e1c31956f2b1bd8ad87a0ea6588a034.svg",
+    "static/media/linkedin.svg": "/react_deploy_gh/static/media/linkedin.13f450e3064f38b7f627849926292467.svg",
+    "static/media/samsung.svg": "/react_deploy_gh/static/media/samsung.a03ad7db0055a8ead180fd8d300a6c94.svg",
+    "static/media/facebook.svg": "/react_deploy_gh/static/media/facebook.aa1017ffbd23ea354ec79681486ba96f.svg",
+    "static/media/feature2-img.svg": "/react_deploy_gh/static/media/feature2-img.d8df1be911a997db5e2306c31fdbca08.svg",
+    "static/media/image.svg": "/react_deploy_gh/static/media/image.4d2bf29a8ff48212669ab52d3485cef2.svg",
+    "static/media/feature1-img.svg": "/react_deploy_gh/static/media/feature1-img.3b04c6e787c085d9be68eaad5e82d1dc.svg",
+    "static/media/feature3-img.svg": "/react_deploy_gh/static/media/feature3-img.553e26ae86a0e05e520f069984285585.svg",
+    "static/media/image2.svg": "/react_deploy_gh/static/media/image2.3a18d7d1481447951e872032f57ae887.svg",
+    "static/media/image1.svg": "/react_deploy_gh/static/media/image1.98d1d51a4955378a7f5b1b419a21c232.svg",
+    "static/media/logo.svg": "/react_deploy_gh/static/media/logo.c480df0a01c89e541d3db16bbab6cdb4.svg",
+    "static/media/bg.svg": "/react_deploy_gh/static/media/bg.7d75a99c4f24b0aac1c8.svg",
+    "static/media/twitter.svg": "/react_deploy_gh/static/media/twitter.6bcf67328c01dd5ba4aab0e76150cfba.svg",
+    "static/media/icon2.svg": "/react_deploy_gh/static/media/icon2.9c92fc72a54400be17ff376ea312f5de.svg",
+    "index.html": "/react_deploy_gh/index.html",
+    "static/media/icon3.svg": "/react_deploy_gh/static/media/icon3.4a53e25e4eac11c053b8800226d009c1.svg",
+    "static/media/icon1.svg": "/react_deploy_gh/static/media/icon1.f9d916a82df5e09102278bf5d5e8f968.svg",
+    "static/media/arrow-right.svg": "/react_deploy_gh/static/media/arrow-right.f4e18ac972d55636860ca375411680c0.svg",
+    "static/media/arrow.svg": "/react_deploy_gh/static/media/arrow.84d0df17466cf6754c8c122cc4e41bdf.svg",
+    "main.0d6432b3.css.map": "/react_deploy_gh/static/css/main.0d6432b3.css.map",
+    "main.0f549fa3.js.map": "/react_deploy_gh/static/js/main.0f549fa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d6432b3.css",
+    "static/js/main.0f549fa3.js"
+  ]
+}
